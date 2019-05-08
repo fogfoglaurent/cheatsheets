@@ -50,3 +50,7 @@ Keep these tips in mind when creating a new cheat sheet:
 1. Pay attention to the details!
 
 > Final tip: Edit the text to be very concise - rely on diagrams where possible.
+
+## Random links
+
+https://ubuntuauquotidien.wordpress.com/category/commandes/
