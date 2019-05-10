@@ -57,3 +57,5 @@ Ubuntu commands: https://ubuntuauquotidien.wordpress.com/category/commandes/
 
 Github basic commands: https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu/
 
+VIM cheatsheet: https://vim.rtorr.com/
+
