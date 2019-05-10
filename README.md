@@ -53,4 +53,6 @@ Keep these tips in mind when creating a new cheat sheet:
 
 ## Random links
 
-https://ubuntuauquotidien.wordpress.com/category/commandes/
+Ubuntu commands: https://ubuntuauquotidien.wordpress.com/category/commandes/
+Github basic commands: https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu/
+
