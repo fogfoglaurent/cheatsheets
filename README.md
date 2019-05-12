@@ -59,3 +59,5 @@ Github basic commands: https://www.howtoforge.com/tutorial/install-git-and-githu
 
 VIM cheatsheet: https://vim.rtorr.com/
 
+String manipulation in R : https://rpubs.com/iPhuoc/stringr_manipulation
+
